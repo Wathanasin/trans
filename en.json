@@ -1,4 +1,16 @@
 {
+  "customer-name":"Customer Name",
+  "duration":"Duration",
+  "customer-agent":"Customer/Agent",
+  "status-new-request":"New Request",
+  "status-discovery-call":"Discovery Call",
+  "status-under-discussion":"Under Discussion",
+  "status-itinerary-created":"Itinerary Created",
+  "status-lost":"Lost",
+  "status-rejected":"Rejected",
+  "status-conquest":"Conquest",
+  "no-fecords-found":"No records found",
+
   "test": "test",
   "customer": "Customer",
   "customers": "Customers",
@@ -28,7 +40,6 @@
   "enable-selected": "Enable Selected",
   "enabled": "Enabled",
   "end-date": "End Date",
-  "enddate": "End Date",
   "enter-text": "Enter Text ....",
   "entity-list": "%entity% List",
   "entries-per-page": "Entries Per Page",
@@ -813,7 +824,6 @@
   "star": "Star",
   "start-at": "Start at",
   "start-date": "Start Date",
-  "startdate": "Start Date",
   "starttls": "StartTLS",
   "status": "Status",
   "status-answered": "Answered",
@@ -1093,13 +1103,6 @@
   "yes-en-speaking": "Yes, English speaking",
   "yes-fr-speaking": "Yes, French speaking",
   "your-itinerary-web": "Your travel diary",
-  "zip-code": "Zip code",
-
-  "customer-name":"Customer Name",
-  "duration":"Duration",
-  "customer-agent":"Customer/Agent",
-  "status-new-request":"New Request",
-  "status-discovery-call":"Discovery Call",
-  "status-under-discussion":"Under Discussion"
+  "zip-code": "Zip code"
   
 }

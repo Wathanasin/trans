@@ -1,4 +1,15 @@
 {
+  "customer-name":"Nom du client",
+  "customer-agent":"Client/Agent",
+  "status-new-request":"Nouveau Demande",
+  "status-discovery-call":"Appel à la découverte",
+  "status-under-discussion":"Sous discussion",
+  "status-itinerary-created":"Itinéraire créé",
+  "status-lost":"perdu",
+  "status-rejected":"Rejeté",
+  "status-conquest":"Conquête",
+  "no-fecords-found":"Aucun dossier trouvé",
+
   "travel-plans": "Plans de voyage",
   "action": "Action",
 
@@ -449,7 +460,6 @@
   "enable-selected": "Activer la sélection",
   "enabled": "Activée",
   "end-date": "Date de fin",
-  "enddate": "End Date",
   "enter-text": "Entrez du texte ....",
   "entity-list": "Liste des %entity%",
   "entries-per-page": "Entrées par page",
@@ -1235,9 +1245,8 @@
   "star": "Star",
   "start-at": "Dates approximatives",
   "start-date": "Date de début",
-  "startdate": "Date de début",
   "starttls": "StartTLS",
-  "status": "Status",
+  "status": "Statut",
   "status-answered": "Réponse Envoyée",
   "status-approved": "Itinéraire Approuvé",
   "status-awaiting-payment": "En attente du paiement",
@@ -1515,11 +1524,6 @@
   "yes-en-speaking": "Oui, parlant Anglais",
   "yes-fr-speaking": "Oui, parlant Français",
   "your-itinerary-web": "Votre carnet de voyage",
-  "zip-code": "Code postal",
+  "zip-code": "Code postal"
 
-  "customer-name":"Nom du client",
-  "customer-agent":"Client/Agent",
-  "status-new-request":"Nouveau Demande",
-  "status-discovery-call":"Appel à la découverte",
-  "status-under-discussion":"Sous discussion"
 }
