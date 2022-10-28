@@ -1,6 +1,5 @@
 {
   "travel-plans": "Plans de voyage",
-  "created-at": "Créé le",
   "action": "Action",
 
   "5-things": "",
@@ -1522,6 +1521,5 @@
   "customer-agent":"Client/Agent",
   "status-new-request":"Nouveau Demande",
   "status-discovery-call":"Appel à la découverte",
-  "status-under-discussion":"Sous discussion",
-  "status-"
+  "status-under-discussion":"Sous discussion"
 }
