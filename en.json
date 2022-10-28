@@ -1,4 +1,5 @@
 {
+  "vvcv":"cvcv",
   "customer": "Customer",
   "customers": "Customers",
   "email": "Email",
@@ -1100,6 +1101,6 @@
   "customer-agent":"Customer/Agent",
   "status-new-request":"New Request",
   "status-discovery-call":"Discovery Call",
-  "status-under-discussion":"Under Discussion",
+  "status-under-discussion":"Under Discussion"
   
 }
